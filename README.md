@@ -4,8 +4,9 @@
 
 ##### NOW
 
-- 🐶 Designed and developed [Waggl](http://3.82.138.253:5000), a dog matching app with 6 other team members
-- ✨ Recently built Journery [Journery](https://journery.herokuapp.com/), a journey photo tracker in less than 2 days 
+- 🐶 Designed and developed a full stack application [Waggl](http://3.82.138.253:5000), a dog matching app with 6 other team members
+- 👗 Converted legacy monolithic backend to a modern microservices architecture for an e-commerce website [GitHub](https://github.com/Team-Thorium/Reviews)
+- ✨ Recently built [Journery](https://journery.herokuapp.com/), a photo journal app that keeps track of your journey in less than 2 days 
 
 ##### BIO
 
