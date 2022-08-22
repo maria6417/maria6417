@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-#### I'm a Full-Stack Developer working in Lisbon, Portugal.
+#### I'm a Full-Stack Developer working in Los Angeles, California.
 
 ##### NOW
 
