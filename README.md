@@ -12,5 +12,5 @@
 - 🏫 I recently graduated **Hack Reactor**, a 1000+ hour bootcamp that is highly intensive and requires efficient and quick learning
 - 👩‍💻 I have previously worked at **Oracle** as an IT consultant, dealing with various cloud infrastructures and systems of clients all over Japan 
 - ⚙️ I use daily: `.js`, `.html`, `.css`, `.jsx`
-- 📫 Reach me: [maria.hirai6417@gmail.com](maria.hirai6417@gmail.com)
+- 📫 Reach me: maria.hirai6417@gmail.com , [linkedIn](https://www.linkedin.com/in/mariahirai/)
 - ⚡️ Fun fact: I love anime!
