@@ -4,7 +4,7 @@
 
 ##### NOW
 
-- 🐶 Designed and developed Waggl [Waggl Online](http://3.82.138.253:5000) website
+- 🐶 Designed and developed [Waggl](http://3.82.138.253:5000), a dog matching app with 6 other team members
 - ✨ Recently built Journery [Journery](https://journery.herokuapp.com/), a journey photo tracker in less than 2 days 
 
 ##### BIO
