@@ -2,7 +2,7 @@
 
 #### I'm a Full-Stack Developer working in Los Angeles, California.
 
-##### NOW
+##### RECENT PROJECTS
 
 - 🐶 Designed and developed a full stack application [Waggl](http://3.82.138.253:5000), a dog matching app with 6 other team members
 - 👗 Converted legacy monolithic backend to a modern scaled microservices architecture for an e-commerce website ([Reviews API](https://github.com/Team-Thorium/Reviews))
