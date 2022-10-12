@@ -4,9 +4,9 @@
 
 ##### RECENT PROJECTS
 
-- 🐶 Designed and developed a full stack application [Waggl](http://3.82.138.253:5000), a dog matching app with 6 other team members
-- 👗 Converted legacy monolithic backend to a modern scaled microservices architecture for an e-commerce website ([Reviews API](https://github.com/Team-Thorium/Reviews))
-- ✨ Recently built [Journery](https://journery.herokuapp.com/), a photo journal app that keeps track of your journey in less than 2 days 
+- 🐶 Designed and developed a full stack application [Waggl](http://3.82.138.253:5000), a dog matching app with 6 other team members ([Repo](https://github.com/maria6417/waggl))
+- 👗 Converted legacy monolithic backend to a modern scaled microservices architecture for an e-commerce website ([Repo](https://github.com/Team-Thorium/Reviews))
+- ✨ Recently built [Journery](https://journery.herokuapp.com/), a photo journal app that keeps track of your journey in less than 2 days ([Repo](https://github.com/maria6417/Journery))
 
 ##### BIO
 
