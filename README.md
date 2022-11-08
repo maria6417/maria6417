@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-#### I'm a Full-Stack Developer working in Los Angeles, California.
+#### I'm a Frontend Developer working in Los Angeles, California.
 
 ##### RECENT PROJECTS
 
